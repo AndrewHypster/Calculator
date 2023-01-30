@@ -1,3 +1,3 @@
 # Calculator
 Calculator
-(Link the site)[https://andrewhypster.github.io/Calculator/]
+- [Link the site](https://andrewhypster.github.io/Calculator/)
